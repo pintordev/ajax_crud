@@ -6,5 +6,6 @@
 ### TODO
 - [x] #1 - base setting
 - [x] #2 - basic directory setting
-- [ ] #3 - entity setup
-- [ ] #4 - board CRUD test
+- [x] #3 - properties file deletion
+- [ ] #4 - entity setup
+- [ ] #5 - board CRUD test
