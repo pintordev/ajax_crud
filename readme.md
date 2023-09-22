@@ -7,5 +7,5 @@
 - [x] #1 - base setting
 - [x] #2 - basic directory setting
 - [x] #3 - properties file deletion
-- [ ] #4 - entity setup
+- [ ] #4 - board entity setup
 - [ ] #5 - board CRUD test
